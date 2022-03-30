@@ -1,7 +1,7 @@
 ### Hi there 👋 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vernfongchao.visitor-badge)
 
 <div align='center'>
- <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"><a href="https://www.linkedin.com/in/vern-chao-a2960a123/">
+ <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"><a href="https://www.linkedin.com/in/vern-chao-a2960a123/"></a>
  </img>
 </div>
 
