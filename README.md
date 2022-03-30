@@ -6,7 +6,6 @@
 ### My Projects
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vernfongchao&repo=MvDC&&count_private=true&include_all_commits=true&theme=gotham)](https://github.com/vernfongchao/MvDC)
- 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vernfongchao&repo=Stay-The-Night&theme=gotham)](https://github.com/vernfongchao/Stay-The-Night)
 
 
