@@ -1,8 +1,7 @@
-### Hi there 👋
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vernfongchao.visitor-badge)
+### Hi there 👋 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vernfongchao.visitor-badge)
 
 <div align='center'>
- https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white
+ <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"> </img>
 </div>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vernfongchao&show_icons=true&&count_private=true&include_all_commits=true&theme=algolia" />
