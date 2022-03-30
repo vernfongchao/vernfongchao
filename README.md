@@ -1,4 +1,4 @@
-<img src="https://i.ytimg.com/vi/31HfP81oWDI/maxresdefault.jpg">
+<img src="https://i.ytimg.com/vi/31HfP81oWDI/maxresdefault.jpg" width="500"> 
 </img>
 <div align='center'>
  <a href="https://www.linkedin.com/in/vern-chao-a2960a123/">
