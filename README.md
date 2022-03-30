@@ -1,5 +1,7 @@
 ### Hi there 👋
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vernfongchao.visitor-badge)
+
+[![Verns's GitHub stats](https://github-readme-stats.vercel.app/api?username=vernfongchao)](https://github.com/vernfongchao/github-readme-stats)
 <!--
 **vernfongchao/vernfongchao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
