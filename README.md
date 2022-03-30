@@ -3,7 +3,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vernfongchao&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vernfongchao&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vernfongchao&repo=MvDC)](https://github.com/vernfongchao/MvDC)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vernfongchao&repo=Stay-The-Night)](https://github.com/vernfongchao/Stay-The-Night)
