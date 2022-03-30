@@ -28,7 +28,7 @@
 
 <div>
  
-![Vern Chao's GitHub stats](https://github-readme-stats.vercel.app/api?username=vernfongchao&show_icons=true&theme=algolia&count_private=true)
+![vernfongchao's GitHub stats](https://github-readme-stats.vercel.app/api?username=vernfongchao&show_icons=true&theme=algolia&count_private=true)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vernfongchao&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
  
  </div>
