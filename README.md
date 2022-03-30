@@ -1,4 +1,4 @@
-<div align = 'center>
+<div align = 'center' >
 <img src="https://i.ytimg.com/vi/31HfP81oWDI/maxresdefault.jpg" width="500"> 
 </img>
 </div>
