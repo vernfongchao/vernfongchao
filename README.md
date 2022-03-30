@@ -3,6 +3,8 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vernfongchao&show_icons=true&&count_private=true&include_all_commits=true&theme=algolia" />
 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 ### My Projects
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vernfongchao&repo=Stay-The-Night&theme=gotham)](https://github.com/vernfongchao/Stay-The-Night)
