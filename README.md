@@ -30,6 +30,9 @@
  
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vernfongchao&show_icons=true&&count_private=true&include_all_commits=true&theme=algolia" />
  
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vernfongchao&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+ 
  </div>
 
 ### My Projects
@@ -37,8 +40,6 @@
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vernfongchao&repo=Stay-The-Night&theme=gotham)](https://github.com/vernfongchao/Stay-The-Night)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vernfongchao&repo=MvDC&&count_private=true&include_all_commits=true&theme=gotham)](https://github.com/vernfongchao/MvDC)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vernfongchao&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/> -->
