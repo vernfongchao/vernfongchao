@@ -3,7 +3,8 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vernfongchao&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vernfongchao&repo=vernfongchao)](https://github.com/vernfongchao/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vernfongchao&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
