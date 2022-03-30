@@ -32,6 +32,11 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vernfongchao&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
  
  </div>
+ 
+ <p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vernfongchao&count_private=true&show_icons=true" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vernfongchao&show_icons=true&locale=en&layout=compact" align = "center"/>
+</p>
 
 ### My Projects
 
