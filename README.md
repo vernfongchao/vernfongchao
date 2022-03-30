@@ -2,6 +2,7 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vernfongchao.visitor-badge)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vernfongchao&show_icons=true&&count_private=true&include_all_commits=true&theme=algolia" />
+
 ### My Projects
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vernfongchao&repo=MvDC&&count_private=true&include_all_commits=true&theme=gotham)](https://github.com/vernfongchao/MvDC)
