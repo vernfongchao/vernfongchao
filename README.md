@@ -5,6 +5,8 @@
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
  </img>
  </a>
+ 
+ ![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)
 </div>
 
  <div align='center'>
