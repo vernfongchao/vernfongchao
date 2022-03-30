@@ -10,7 +10,7 @@
  </img>
  </a>
  
- <h1>Welcome to My Github</h1> ### Hi there 👋 
+ <h1>Welcome to My Github 👋 </h1>
  
 </div>
 
