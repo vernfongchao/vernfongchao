@@ -4,20 +4,7 @@
  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"> </img>
 </div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vernfongchao&show_icons=true&&count_private=true&include_all_commits=true&theme=algolia" />
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-### My Projects
-
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vernfongchao&repo=Stay-The-Night&theme=gotham)](https://github.com/vernfongchao/Stay-The-Night)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vernfongchao&repo=MvDC&&count_private=true&include_all_commits=true&theme=gotham)](https://github.com/vernfongchao/MvDC)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vernfongchao&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
- <div>
+ <div align='center'>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -34,6 +21,20 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vernfongchao&show_icons=true&&count_private=true&include_all_commits=true&theme=algolia" />
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### My Projects
+
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vernfongchao&repo=Stay-The-Night&theme=gotham)](https://github.com/vernfongchao/Stay-The-Night)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vernfongchao&repo=MvDC&&count_private=true&include_all_commits=true&theme=gotham)](https://github.com/vernfongchao/MvDC)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vernfongchao&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/> -->
   
   
