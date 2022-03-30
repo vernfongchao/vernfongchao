@@ -25,18 +25,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+### My Github Stats
 
-<div>
- 
-![vernfongchao's GitHub stats](https://github-readme-stats.vercel.app/api?username=vernfongchao&show_icons=true&theme=algolia&count_private=true&card_width=500)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vernfongchao&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
- 
- </div>
- 
-
+<p>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vernfongchao&count_private=true&show_icons=true&theme=algolia"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vernfongchao&show_icons=true&locale=en&layout=compact&theme=vue-dark"/>
-
+</p>
+ 
 ### My Projects
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vernfongchao&repo=Stay-The-Night&theme=gotham)](https://github.com/vernfongchao/Stay-The-Night)
