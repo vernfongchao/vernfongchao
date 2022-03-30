@@ -1,5 +1,8 @@
+<div align = 'center>
 <img src="https://i.ytimg.com/vi/31HfP81oWDI/maxresdefault.jpg" width="500"> 
 </img>
+</div>
+            
 <div align='center'>
  <a href="https://www.linkedin.com/in/vern-chao-a2960a123/">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
