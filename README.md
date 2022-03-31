@@ -41,6 +41,8 @@
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vernfongchao&repo=Stay-The-Night&theme=gotham&card_width=500)](https://github.com/vernfongchao/Stay-The-Night)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vernfongchao&repo=MvDC&&count_private=true&include_all_commits=true&theme=gotham&card_width=100)](https://github.com/vernfongchao/MvDC)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vernfongchao&repo=catoura&theme=gotham&card_width=500)](https://github.com/vernfongchao/Catoura)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vernfongchao&repo=Petsagram&&count_private=true&include_all_commits=true&theme=gotham&card_width=100)](https://github.com/BrandonCope/insta_clone)
 
 
 
