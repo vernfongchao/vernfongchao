@@ -12,14 +12,16 @@
    <img src=https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black>
  </img>
  </a>
- 
- ### About Me:
- 
+  
  <h1>Welcome to My Github 👋 </h1>
  
  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vernfongchao.visitor-badge)
  
 </div>
+
+<div>
+            <h1>About Me </h1>
+            </div>
 
  <div align='center'>
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
