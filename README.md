@@ -13,7 +13,7 @@
  </img>
  </a>
   
- <h1>Welcome to My Github 👋 </h1>
+ <h1>👋 Welcome to My Github <img src="https://emojis.slackmojis.com/emojis/images/1643514532/5264/coding.gif?1643514532" width ="30"></img> </h1>
  
  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vernfongchao.visitor-badge)
  
