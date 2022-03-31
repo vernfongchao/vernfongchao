@@ -35,14 +35,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="40" height="40"/>&nbsp;
 </div>
 
-### My Github Stats
+### Github Stats
 
 <p>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vernfongchao&count_private=true&show_icons=true&theme=algolia"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vernfongchao&show_icons=true&locale=en&layout=compact&theme=vue-dark"/>
 </p>
  
-### My Projects
+### Projects
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vernfongchao&repo=Stay-The-Night&theme=gotham&card_width=500)](https://github.com/vernfongchao/Stay-The-Night)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vernfongchao&repo=MvDC&&count_private=true&include_all_commits=true&theme=gotham&card_width=100)](https://github.com/vernfongchao/MvDC)
