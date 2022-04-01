@@ -12,8 +12,8 @@
    <img src=https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black>
  </img>
  </a>
-  
- <h1>👋 Welcome to My Github <img src="https://emojis.slackmojis.com/emojis/images/1643514532/5264/coding.gif?1643514532" width ="30"></img> </h1>
+
+ <h1><img src="https://emojis.slackmojis.com/emojis/images/1643515307/13263/bongocat_code.gif?1643515307" width ="30"></img> Welcome to My Github <img src="https://emojis.slackmojis.com/emojis/images/1643514532/5264/coding.gif?1643514532" width ="30"></img> </h1>
  
  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vernfongchao.visitor-badge)
  
