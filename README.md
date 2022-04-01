@@ -45,8 +45,8 @@
 ### Github Stats
 
 <p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vernfongchao&count_private=true&show_icons=true&theme=algolia"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vernfongchao&show_icons=true&locale=en&layout=compact&theme=vue-dark"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=vernfongchao&count_private=true&show_icons=true&theme=algolia"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vernfongchao&show_icons=true&locale=en&layout=compact&theme=vue-dark"/>
 </p>
  
 ### Projects
