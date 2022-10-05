@@ -2,7 +2,7 @@
 <img src="https://i.ytimg.com/vi/31HfP81oWDI/maxresdefault.jpg" width="500"> 
 </img>
 </div>
-           
+          
 <div align='center'>
  <a href="https://www.linkedin.com/in/vern-chao-a2960a123/">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -53,7 +53,7 @@
 
 <!-- <div align= "center">
              -->
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vernfongchao&repo=MDP&theme=gotham&card_width)](https://github.com/vernfongchao/MDP)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vernfongchao&repo=MDP&theme=gotham&card_width@show_owner)](https://github.com/vernfongchao/MDP)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vernfongchao&repo=Stay-The-Night&theme=gotham&card_width)](https://github.com/vernfongchao/Stay-The-Night)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vernfongchao&repo=MvDC&&count_private=true&include_all_commits=true&theme=gotham&card_width)](https://github.com/vernfongchao/MvDC)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrandonCope&repo=Petsagram&&count_private=true&include_all_commits=true&theme=gotham&card_width)](https://github.com/BrandonCope/Petsagram)
