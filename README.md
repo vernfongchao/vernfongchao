@@ -15,7 +15,7 @@
 
  <h1><img src="https://emojis.slackmojis.com/emojis/images/1643515307/13263/bongocat_code.gif?1643515307" width ="30"></img> Welcome to My Github <img src="https://emojis.slackmojis.com/emojis/images/1643514532/5264/coding.gif?1643514532" width ="30"></img> </h1>
  
- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vernfongchao.visitor-badge)
+![](https://komarev.com/ghpvc/?username=vernfongchao)
  
 </div>
 
