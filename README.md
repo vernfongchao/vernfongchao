@@ -45,18 +45,18 @@
 ### Github Stats
 
 <p align = "center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vernfongchao&count_private=true&show_icons=true&theme=algolia"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vernfongchao&show_icons=true&locale=en&layout=compact&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vernfongchao&count_private=true&show_icons=true&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=vernfongchao&show_icons=true&locale=en&layout=compact&theme=algolia"/>
 </p>
  
 ### Projects
 
 <!-- <div align= "center">
              -->
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vernfongchao&repo=MDP&theme=gotham&card_width&show_owner)](https://github.com/vernfongchao/MDP)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vernfongchao&repo=Stay-The-Night&theme=gotham&card_width)](https://github.com/vernfongchao/Stay-The-Night)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vernfongchao&repo=MvDC&&count_private=true&include_all_commits=true&theme=gotham&card_width)](https://github.com/vernfongchao/MvDC)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrandonCope&repo=Petsagram&&count_private=true&include_all_commits=true&theme=gotham&card_width)](https://github.com/BrandonCope/Petsagram)
+ [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=vernfongchao&repo=MDP&theme=gotham&card_width&show_owner)](https://github.com/vernfongchao/MDP)
+ [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=vernfongchao&repo=Stay-The-Night&theme=gotham&card_width)](https://github.com/vernfongchao/Stay-The-Night)
+ [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=vernfongchao&repo=MvDC&&count_private=true&include_all_commits=true&theme=gotham&card_width)](https://github.com/vernfongchao/MvDC)
+ [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=BrandonCope&repo=Petsagram&&count_private=true&include_all_commits=true&theme=gotham&card_width)](https://github.com/BrandonCope/Petsagram)
             
 <!-- </div> -->
             
